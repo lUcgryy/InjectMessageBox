@@ -1,3 +1,6 @@
 *.exe
 **/*.exeh
 Sample/
+.vscode/
+.dist/
+.gitattributes
